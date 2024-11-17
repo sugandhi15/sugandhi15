@@ -1,3 +1,4 @@
+<img src="./github-header-image.png" alt="Backend Developer">
 <h1 align="center">Hi 👋, I'm Sugandhi Bansal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" width='400' alt="coding" src="https://img.freepik.com/premium-photo/female-developer-background_665280-9659.jpg">
