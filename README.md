@@ -1,5 +1,3 @@
-![Header](./[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7aVWmzaqRodwt5MV6TP7ZMwi2ChlekKY1gQ&s])
-
 <h1 align="center">Hi 👋, I'm Sugandhi Bansal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" width='400' alt="coding" src="https://img.freepik.com/premium-photo/female-developer-background_665280-9659.jpg">
